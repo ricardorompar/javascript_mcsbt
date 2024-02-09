@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&display=swap");
+
+p {
+  font-family: Montserrat;
+  font-size: large;
+}
+h1 {
+  font-family: Montserrat;
+  font-size: xx-large;
+  color: brown;
+  font-weight: 500;
+}
+.centered {
+  align-items: center;
+  justify-content: center;
+}
